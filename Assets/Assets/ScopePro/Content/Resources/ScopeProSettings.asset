@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93af3c18cc4811d43914f6e4796ece2f, type: 3}
+  m_Name: ScopeProSettings
+  m_EditorClassIdentifier: 
+  sightMaterial: {fileID: 0}
+  scopeMaterial: {fileID: 2100000, guid: 7f09faac15a68ae4d881f14111149723, type: 2}
+  scopeCamera: {fileID: 7382142004790856593, guid: 3650eb8dc23b0ec478624e57c7809b9b,
+    type: 3}
+  scopeReticles:
+  - {fileID: 2800000, guid: f3d1215a435a98941b1739a7f5f3035f, type: 3}
+  - {fileID: 2800000, guid: 1ba98fa870af7d04f8b4d620289090c2, type: 3}
+  - {fileID: 2800000, guid: b3a112be04fe3784087be188b8da1208, type: 3}
+  - {fileID: 2800000, guid: 81808dfc347e4ca4db61579ccf80fbf9, type: 3}
+  - {fileID: 2800000, guid: 1c6deaa2989919647a910af0611d3fbe, type: 3}
+  - {fileID: 2800000, guid: 43b611e848e587e4bb0c3e82453e0154, type: 3}
+  - {fileID: 2800000, guid: f173a7eddca723e4ebc546ec7357b9c8, type: 3}
+  - {fileID: 2800000, guid: b109cf594f6c7fd45b13e6f450e53919, type: 3}
